@@ -71,5 +71,4 @@ Our Work flow
 7- individual attempts
 8- merge commits
 9- push to repo
-10- move on to the next problem
----
+10- Move to the next problem-
