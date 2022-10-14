@@ -69,6 +69,5 @@ Our Work flow
 5- individual attempts
 6- peer review and corrections
 7- individual attempts
-8- merge commits
-9- push to repo
-10- Move to the next problem-
+8- merge commits and push
+9- Move to the next problem-
