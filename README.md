@@ -61,5 +61,15 @@ Handle the following conversion specifiers:
 ### 2. Just because it's in print doesn't mean it's the gospel
 
 Create a man page for your function.
-
+Our Work flow
+1- Discuss the problem
+2- Whiteboard
+3- pseudocode
+4- flowchart
+5- individual attempts
+6- peer review and corrections
+7- individual attempts
+8- merge commits
+9- push to repo
+10- move on to the next problem
 ---
