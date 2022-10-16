@@ -1,6 +1,17 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-int _printf(const char *format, ...);
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
 
+int _printf(const char *format, ...);
+int print_char(va_list c);
+int _putchar(char c);
+int myprintf(const char *format, ...);
+typedef struct f_form
+{
+	char *ad;
+	int (*w)(va_list);
+} type;
 #endif /* MAIN_H */
