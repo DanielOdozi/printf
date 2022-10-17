@@ -9,6 +9,9 @@ int _printf(const char *format, ...);
 int print_char(va_list c);
 int _putchar(char c);
 int myprintf(const char *format, ...);
+int flag_checker(char f, long int dig, char func);
+int checker(char c, char flags[], int l);
+int printf_char(va_list ch, char flags[]);
 typedef struct f_form
 {
 	char *ad;
