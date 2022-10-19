@@ -20,12 +20,12 @@ To use this function that simulates the printf, you must clone the repository `[
 > ### Extra information
 
 ### What’s Included?
-|file|description| 
+|file|description|
 |----|-----------|
-|  `_printf.c`  | simulates original printf | 
-|  `_putchar.c` | simulates original putchar | 
-|  `_printf_function.c`  | contains functions for the printf | 
-| `main.h` | contains prototypes and libraries| 
+|  `_printf.c`  | simulates original printf |
+|  `_putchar.c` | simulates original putchar |
+|  `_printf_function.c`  | contains functions for the printf |
+| `main.h` | contains prototypes and libraries|
 ---
 > ### Compilation
 Your code will be compiled this way:
